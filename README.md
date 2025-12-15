@@ -8,8 +8,11 @@ I'm a passionate full-stack and blockchain developer from Japan. With hands-on e
 ## 🔹About Me
 
 ✅ Specialize in Frontend & Blockchain
+
 ✅ Collaborative team player — passionate about mentoring and growing together
+
 ✅ Always eager to learn, improve, and adapt to new technologies
+
 ✅ Crazy about Driving
 
 ---
