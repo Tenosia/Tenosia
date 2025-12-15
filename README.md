@@ -1,7 +1,47 @@
 
-👋 Hello !! <br>
-I am a *Frontend* and *Blockchain Engineer* with a passion for building robust, scalable, and user-friendly applications. 
-With expertise in *Langchain*, *LLM*, *NLP*, *Solidity*, *Rust*, *Go*, *Haskell*, *Anchor*, *React*, and *Node*, I specialize in building *AI Agent*, *Smart Contract*, *DApp*, *Defi*, *Web/App wallet*, *NFT game*, *Node building*, *Trading Bot* and dynamic front-end interfaces. Whether designing complex token economics or creating responsive UI/UX designs, I bring your ideas to life with precision and creativity. Let's work together to push the boundaries of technology! 🚀
+# Hi there 👋 
+
+I'm a passionate full-stack and blockchain developer from Japan. With hands-on experience, I transform ideas into high-quality apps. I value clean code, robust architecture, and a collaborative spirit.
+
+---
+
+## 🔹About Me
+
+✅ Specialize in Frontend & Blockchain
+✅ Collaborative team player — passionate about mentoring and growing together  
+✅ Always eager to learn, improve, and adapt to new technologies 
+✅ Crazy about Driving
+---
+
+## 🔹Tech Stack
+
+- **Blockchain:** Solidity, Hardhat, Rust, Anchor, Move, Cairo, Haskell, Plutus, Aiken, Compact
+- **Frontend:** React, Next, Vue, React-Native, Javascript, Typescript
+- **Backend & DB:** Node, Nest, PostgreSQL, MongoDB 
+- **Other:** Firebase, Docker, C#, API Development, GraphQL, WebSockets, Linux 
+<!--
+---
+
+## 🔹Some Projects I've Worked On
+
+✨ [Connect Kisan](https://play.google.com/store/apps/details?id=com.cliffbyte.krishi_hub) — An agricultural platform with services, notifications & bidding.  
+✨ [My Palika](https://play.google.com/store/apps/details?id=com.cliffbyte.mypalika) — A civic services platform with extensive microservice orchestration.  
+✨ [Palika App](https://play.google.com/store/apps/details?id=com.informationcare.metro_appointment_user) — An intermediary platform for multiple municipalities.  
+✨ **Other:** Pay Well (Wallet App), InfoCare CRM, Product Tracking App, and more.
+
+---
+
+## 🔹Let's Connect
+
+📍 Location: Kathmandu, Nepal  
+📧 [nirmalnyure1@gmail.com](mailto:nirmalnyure1@gmail.com)  
+🔹 [LinkedIn](https://www.linkedin.com/in/nirmal-nyure-aa8602189)   
+🔹 [Github](https://github.com/nirmalnyure1/)    
+-->
+---
+
+✨ Always excited to collaborate, learn, and grow together!  
+Let's make something great. 🚀  
         <br><br>
          <div style="display: flex; align-items: flex-start; align: center">
           <table align="center">
