@@ -8,8 +8,8 @@ I'm a passionate full-stack and blockchain developer from Japan. With hands-on e
 ## 🔹About Me
 
 ✅ Specialize in Frontend & Blockchain
-✅ Collaborative team player — passionate about mentoring and growing together  
-✅ Always eager to learn, improve, and adapt to new technologies 
+✅ Collaborative team player — passionate about mentoring and growing together
+✅ Always eager to learn, improve, and adapt to new technologies
 ✅ Crazy about Driving
 ---
 
@@ -162,21 +162,4 @@ Let's make something great. 🚀
           </table>
         </div >
         <br>
-        <div align = "center">
-          <span style="display:inline-block;" >
-            <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Tenosia&hide=html,makefile,css,dockerfile.motoka,shell&langs_count=8&layout=compact&theme=radical&card_width=150" />
-          </span>
-          <span style="display:inline-block;">
-            <img src="https://github-readme-stats.vercel.app/api?username=Tenosia&layout=compact&theme=radical"/>
-          </span> 
-        </div>
-        <br>
-        <!--
-        <div>
-          [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
-          <br>
-          [![Ren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tenosia&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph) 
-        </div>
-        -->
-
 
