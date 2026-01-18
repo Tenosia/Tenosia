@@ -139,12 +139,12 @@ Let's make something great. 🚀
                 <br>D3
               </td>
               <td align="center" width="96">
-                <img src="https://camo.githubusercontent.com/829eb4bb9b9dc77a1f9e2b627dd1d2cb4421399c1c1eb9abff01038987cff7f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74687265656a73" width="48" height="48" alt="Three.js" />
-                <br>Three.js
+                <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+                <br>C#
               </td>
               <td align="center" width="96">
-                <img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="48" height="48" alt="AWS" />
-                <br>AWS
+                <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+                <br>C++
               </td>
               <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
