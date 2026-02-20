@@ -135,7 +135,7 @@ Let's make something great. 🚀
                 <br>Nginx
               </td>
               <td align="center" width="96">
-                <img src="https://camo.githubusercontent.com/4bcf257d965dc24378411c30023a5fd7d5123415fd72e86a0dc615dd4d8eb82b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6433" width="48" height="48" alt="D3" />
+                <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="D3" />
                 <br>D3
               </td>
               <td align="center" width="96">
